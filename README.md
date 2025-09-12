@@ -1,2 +1,2 @@
 # dabsdr
-DAB+ SDR for Windows
+DAB+ SDR for Windows, check releases.
